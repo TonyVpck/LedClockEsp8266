@@ -13,8 +13,8 @@
 //-- CONFIG PERSO --//-- WIFI personnel
 
 // Définir le SSID et le mot de passe du Wi-Fi
-const char *ssid = "Edulab AP";
-const char *password = "openlabrennes2";
+const char *ssid = "your_SSID";
+const char *password = "your_password";
 
 //-- CONFIG PERSO --//-- Branchement, électronique et matériel
 
